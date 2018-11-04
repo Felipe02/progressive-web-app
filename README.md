@@ -4,6 +4,9 @@ Aplicação informativa que exibe a meteorologia em tempo real, com base nas inf
 # Progressive Web App
 Progressive Web App (PWA) é um termo usado para denotar uma nova metodologia de desenvolvimento de software. Ao contrário dos tradicionais aplicativos, um Progressive Web App pode ser visto como uma evolução híbrida entre as páginas da web regulares (ou sites) e um aplicativo móvel. Este novo modelo de aplicação combina recursos oferecidos pelos mais modernos navegadores, com as vantagens de uso de um celular.
 
+## Aplicativo
+![alt text](https://github.com/Felipe02/progressive-web-app/blob/master/images/print.PNG)
+
 ## Tecnologias
 * JavaScript
 * HTML
@@ -16,4 +19,6 @@ Progressive Web App (PWA) é um termo usado para denotar uma nova metodologia de
 
 ## Ambiente
 * Chrome 52 ou superior ou qualquer navegador que suporte service workers e `cache.addAll ()`. 
+
+
 
